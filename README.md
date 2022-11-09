@@ -6,7 +6,7 @@
 ----
 Tetris is a classic game that has always been enthusiastically implemented in various languages. There are many versions of it in Javascript, and using React to do Tetris has become my goal.
 
-Open [https://srivera145.github.io/tetris/?lan=en](https://srivera145.github.io/tetris/?lan=en) to play!
+Open [https://mytetrisgame.netlify.app/](https://mytetrisgame.netlify.app/) to play!
 
 ----
 ### Interface preview
